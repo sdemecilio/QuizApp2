@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">QuizApp2</string>
+    <string name="action_settings">Settings</string>
+
+    <string name = "instructions">Instructions: Answer the question
+            with true or false. At the end of your game, your score
+            will be shown.</string>
+    <string name = "questions"></string>
+    <string name = "trueButton">True</string>
+    <string name = "falseButton">False</string>
+    <string name = "previous">  Previous </string>
+    <string name = "next"> Next ></string>
+    <string name = "correct">Correct!</string>
+    <string name = "incorrect">Sorry.Incorrect!</string>
+
+    <!-- the following are possible questions asked in app -->
+    <string name = "yellowSun">Is the sun yellow</string>
+    <string name = "math1">1 + 2 = 1</string>
+    <string name = "seattle">The Seattle skyline includes the Empire State Building.</string>
+    <string name = "oceans">The Pacific Ocean is on the west coast of the United States</string>
+    <string name = "biology">A whale is a mammal.</string>
+</resources>
